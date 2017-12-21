@@ -1,0 +1,38 @@
+.idea
+venv/
+*.pyc
+*.pyo
+
+### VisualStudio ### - start
+## https://www.gitignore.io/api/visualstudio
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# SQL Server log files
+*.ldf
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+### VisualStudio ### - end
+
+# AtomAnt
+atomant/atom/input/
+atomant/atom/archive/
